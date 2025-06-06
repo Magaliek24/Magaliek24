@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magalie</h1>
-<h3 align="center">Web Developer in training</h3>
+<h3 align="center">Développeuse web en formation CDA. Passionnée par le design web, le code propre et les projets utiles. En recherche d’une alternance dans les Hauts-de-France.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
